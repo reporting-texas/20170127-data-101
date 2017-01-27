@@ -1,0 +1,42 @@
+section {
+  background: #000;
+  color: #fff;
+  font-family: Georgia, Times, serif;
+  text-align: center;
+  padding:1.3em .35em;
+}
+
+p {
+  font-size: 0.9em;
+}
+
+.grey {
+  color: #777;
+}
+
+img {
+  width: 450px;
+}
+
+.small {
+  font-size: 0.7em;
+}
+
+a:link,
+a:visited {
+  color: #F36B2E;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 1.4em;
+}
